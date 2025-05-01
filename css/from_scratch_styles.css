@@ -1,0 +1,44 @@
+.title {
+    text-decoration:solid;
+    font-weight: bold;
+    color: #fff360;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.best_show {
+    color: gold;
+    font-weight: bold;
+}
+.second_show {
+    color: silver;
+    font-weight: bold;
+}
+.third_show {
+    color: #CD7F32; 
+    font-weight: bold;
+}
+.background_color {
+    color: #7eb5e8; 
+}
+.top_episode_list {
+    font-size: large;
+}
+.homebg {
+    background-image: url('../assets/img/jelly_fish_bg.jpg');
+    background-position: top right;
+}
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+    border-bottom: solid 5px #f04c99;
+    text-align: right;
+    font-size: xx-large;
+    color:#f04c99;
+}
+.h1 {
+    color:brown;
+    font-style: italic;
+    font-weight: bold;
+}
